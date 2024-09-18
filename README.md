@@ -1,4 +1,4 @@
-<h2 align = 'center'>I'm Atticus of Corginia</h2>
+<h2 align = 'center'>I'm <i>Atticus of Corginia</i> 🐕</h2>
 
 <img src = 'https://github.com/user-attachments/assets/eb67c1e5-9bce-47df-8eb7-6016be94d881'>
 
@@ -13,8 +13,7 @@
 <div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,julia,fortran,html,css,javascript,c" />
+    <img src="https://skillicons.dev/icons?i=python,r,julia,fortran,html,css,javascript,c"/>
   </a>
 </p>
-  
 </div>
