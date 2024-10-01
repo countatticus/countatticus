@@ -10,8 +10,15 @@
 
 <div>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,julia,fortran,lua,html,css,javascript,mongodb,c,java"/>
-  </a>
+  <table>
+    <tr>
+      <th>Primary</th>
+      <th><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,julia,html,css,javascript"/></a></th>
+    </tr>
+    <tr>
+      <th>Secondary</th>
+      <th><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fortran,lua,mongodb,c,java"/></a></th>
+    </tr>
+  </table>
 </p>
 </div>
