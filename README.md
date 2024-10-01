@@ -11,11 +11,12 @@
   <table>
     <tr>
       <th colspan = 2>Languages</th>
-      <th rowspan = 3><img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=countatticus&layout=compact&theme=dark'></th>
+      <th>Stats ✨</th>
     </tr>
     <tr>
       <th>Primary</th>
       <th><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,r,julia,html,css,javascript"/></a></th>
+      <th rowspan = 2><img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=countatticus&layout=compact&theme=dark'></th>
     </tr>
     <tr>
       <th>Secondary</th>
