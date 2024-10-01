@@ -6,7 +6,7 @@
 
 <!--<img src = 'https://github-readme-stats.vercel.app/api/top-langs/?username=countatticus&layout=compact&theme=dark' align = 'right'>-->
 
-<div>
+<div align = "center">
 <p align="center">
   <table>
     <tr>
